@@ -1,8 +1,9 @@
 import subprocess
 import time
 from datetime import datetime
+from config import SCRIPT_PATH
 
-SCRIPT_PATH = ""
+
 INTERVAL_MINUTES = 15
 
 def ejecutar_script():
