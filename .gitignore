@@ -1,0 +1,14 @@
+# Ignora bytecode de Python
+__pycache__/
+# Ignora archivos de config local
+config.py
+# Ignora caché
+cache.json
+# Ignora logs
+*.log
+# Entornos virtuales
+venv/
+env/
+# IDEs
+.vscode/
+.idea/
