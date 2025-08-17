@@ -9,7 +9,6 @@ echo "🚀 Instalando Tesla Tracker"
 echo "🔖 Versión: $VERSION"
 echo "----------------------------------------------"
 
-# Ajusta esto si cambias la ruta de tu proyecto
 PROJECT_DIR="$(cd "$(dirname "$0")" && pwd)"
 USER="$(whoami)"
 
